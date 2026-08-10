@@ -1,0 +1,17 @@
+{
+  "title": "Donald Trump",
+  "subtitle": "The Man Who Changed Everything",
+  "genre": "Biography",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "The biography of Donald J. Trump — the man who changed everything — from New York real estate to the White House and beyond.",
+  "style": "Authoritative, engaging, journalistic prose. Balanced and factual with vivid scene-setting.",
+  "characters": "Donald J. Trump and the key figures in his life.",
+  "setting": "New York, Washington D.C., and the world.",
+  "notes": "Continue the biography in chronological order through his presidency and beyond. Keep it factual, balanced, and readable.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v1.0/book.html"],
+  "htmlFiles": [],
+  "indexInject": null,
+  "mdHeadingLevel": 2,
+  "targetWords": 2000
+}
